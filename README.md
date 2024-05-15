@@ -36,7 +36,7 @@ This Kubernetes configuration provides a LAMP (Linux, Apache, MySQL, PHP) stack 
 #### Prerequisites
 - Kubernetes cluster (e.g., minikube, Docker Desktop with Kubernetes enabled)
 - kubectl command-line tool
-
+![My Remote Image](https://infotechys.com/wp-content/uploads/2024/03/Deploy_LAMP_on_Minikube.webp)
 #### Usage
 1. Apply the Kubernetes configuration files in the `kubernetes/` directory using `kubectl apply -f <filename>`.
 2. Access your web application through the exposed service.
