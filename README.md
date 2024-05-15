@@ -23,10 +23,11 @@ This Docker Compose setup provides a LAMP (Linux, Apache, MySQL, PHP) stack envi
 - Environment variables can be customized in the `.env` file.
 - MySQL data is persisted using Docker volumes. The volume `tt_mysql-data` is created for MySQL data storage.
 
-#### License
-This project is licensed under the [MIT License](LICENSE).
 
 ### LAMP Stack with Kubernetes
+
+[![f1](https://github.com/sudosugandh/lamp-k8s/assets/64632983/2e415032-f72a-4b12-85d8-e1a0a3b0b89a)
+]
 
 #### Overview
 This Kubernetes configuration provides a LAMP (Linux, Apache, MySQL, PHP) stack environment for container orchestration. It includes the following resources:
@@ -46,7 +47,4 @@ This Kubernetes configuration provides a LAMP (Linux, Apache, MySQL, PHP) stack 
 - Environment variables can be configured directly in the Kubernetes manifests, such as Deployment and Service files.
 - Persistent storage for MySQL data can be configured using PersistentVolume and PersistentVolumeClaim.
 (https://github.com/sudosugandh/lamp-k8s/assets/64632983/2e415032-f72a-4b12-85d8-e1a0a3b0b89a)
-#### License
-This project is licensed under the [MIT License](LICENSE).
 
-Feel free to customize the README.md file further based on your specific project details and requirements.
