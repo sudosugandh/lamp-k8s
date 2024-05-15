@@ -46,5 +46,4 @@ This Kubernetes configuration provides a LAMP (Linux, Apache, MySQL, PHP) stack 
 #### Configuration
 - Environment variables can be configured directly in the Kubernetes manifests, such as Deployment and Service files.
 - Persistent storage for MySQL data can be configured using PersistentVolume and PersistentVolumeClaim.
-(https://github.com/sudosugandh/lamp-k8s/assets/64632983/2e415032-f72a-4b12-85d8-e1a0a3b0b89a)
 
