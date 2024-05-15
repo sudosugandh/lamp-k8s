@@ -1,5 +1,4 @@
 Sure, here's a README.md file template for both scenarios:
-
 ### LAMP Stack with Docker Compose
 
 #### Overview
